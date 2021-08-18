@@ -1,0 +1,40 @@
+input{
+    color: #49b1b2;
+    background-color: whitesmoke;
+    border:solid 3px #49b1b2;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 25px;
+    width: 13%;
+    height: 50px;
+    transform: scale(1.15);
+    margin-top: 5%;
+    margin-bottom: 30px;
+    margin-left: 143px;
+    }
+
+.plus{
+    background-color:#00d1b2;
+    border: 0px;
+    color: white;
+    width: 25px;
+    height: 24px;
+    font-size: 20px;
+    font-weight:lighter; 
+    font-stretch:ultra-condensed;
+    transform: scale(2.9);
+    margin-left: 150px;
+    margin-top: 15px;
+
+}
+#account{
+    background-color:#2b78e4 ;
+    color: white;
+    border-radius: 0px;
+    border: solid black;
+    box-shadow: black 5px 5px;
+    font-weight: lighter;
+    margin-top: 25px;
+    margin-left: 162px;
+    transform: scale(1.3);
+}
